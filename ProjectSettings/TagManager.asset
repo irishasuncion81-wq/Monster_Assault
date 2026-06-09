@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Enemy
+  - EnemyHead
+  - Water
+  - spear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2579551069
+    locked: 0
+  - name: bg 1
+    uniqueID: 2160770197
+    locked: 0
+  - name: bg 2
+    uniqueID: 133846377
+    locked: 0
+  - name: bg 3
+    uniqueID: 477270763
+    locked: 0
+  - name: bg 4
+    uniqueID: 775134543
+    locked: 0
+  - name: bg 5
+    uniqueID: 718713379
+    locked: 0
+  - name: sky
+    uniqueID: 2168903565
+    locked: 0
+  m_RenderingLayers:
+  - Default
